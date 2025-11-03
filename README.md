@@ -23,12 +23,12 @@ GPTとPythonを組み合わせることで、「人の思考」と「機械的�
 
 ## 🔄 Workflow
 
-mermaid
+---mermaid
 flowchart TD
-  A01[01 Deep Research (Manual)] --> A02[02 Japanese Characteristics (Prompt)]
-  A02 --> A03[03 Consumer Concerns (Prompt)]
-  A03 --> A04[04 AllCombinations (Python)]
-  A04 --> A05[05 Google Search API (Python)]
-  A05 --> A06[06 Extract Official URLs (GPT)]
-  A06 --> A07[07 Transcribe Results (Python)]
-```
+  A01["01 Deep Research (Manual)"] --> A02["02 Japanese Characteristics (Prompt)"]
+  A02 --> A03["03 Consumer Concerns (Prompt)"]
+  A03 --> A04["04 AllCombinations (Python)"]
+  A04 --> A05["05 Google Search API (Python)"]
+  A05 --> A06["06 Extract Official URLs (GPT)"]
+  A06 --> A07["07 Transcribe Results (Python)"]
+---
