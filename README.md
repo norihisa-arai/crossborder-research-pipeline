@@ -1,4 +1,4 @@
-# Cross-border Research Pipeline – Japanese Products Evaluation and Keyword Automation
+# Cross-border Research Pipeline – AI-assisted Workflow for Japanese Products
 
 ## 🧭 Overview
 本プロジェクトは、**海外における日本製品の評価分析から、キーワード生成・検索・整形までを一気通貫で行う半自動リサーチパイプライン**です。  
@@ -31,3 +31,4 @@ flowchart TD
   A05 --> A06["06 Extract Official URLs (GPT)"]
   A06 --> A07["07 Transcribe Results (Python)"]
 ```
+
