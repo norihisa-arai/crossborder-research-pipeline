@@ -31,3 +31,4 @@ flowchart TD
   A04 --> A05[05 Google Search API (Python)]
   A05 --> A06[06 Extract Official URLs (GPT)]
   A06 --> A07[07 Transcribe Results (Python)]
+```
