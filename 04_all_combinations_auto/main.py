@@ -11,7 +11,7 @@ import glob
 # =============================
 # 設定
 # =============================
-ROOT_DIR = Path(r"C:\Users\tohjo\OneDrive\桌面\荒井\プロジェクト\Google検索による商品キーワード生成")
+ROOT_DIR = Path(r"●●●●●:\●●●●●\crossborder-research-pipeline")
 DEFAULT_SHEET_NAME = "Sheet1"
 CSV_PART_ROWS = 1_000_000
 WRITE_CHUNK_SIZE = 50_000
@@ -251,3 +251,4 @@ if __name__ == "__main__":
     except Exception as e:
         logging.exception("予期せぬエラーが発生しました。")
         sys.exit(1)
+
