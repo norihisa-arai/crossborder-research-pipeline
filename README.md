@@ -23,7 +23,7 @@ GPTとPythonを組み合わせることで、「人の思考」と「機械的�
 
 ## 🔄 Workflow
 
-```mermaid
+mermaid
 flowchart TD
   A01[01 Deep Research (Manual)] --> A02[02 Japanese Characteristics (Prompt)]
   A02 --> A03[03 Consumer Concerns (Prompt)]
